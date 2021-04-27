@@ -7,7 +7,7 @@
 <h1>Podcastr!</h1>
 <h2>O melhor para você ouvir sempre</h2>
 <p>Essa API foi feita junto com o evento da NextLevelWeek da rocketseat. Usei a tecnologia ReactJS, junto com o framework Next. 
-Pude aprender conceitos importantes sobre essa biblioteca, durante a semana do evento e você pode conferir o resultado aqui...</p>
+Pude aprender conceitos importantes sobre essa biblioteca, durante a semana do evento e você pode conferir o resultado do codigo aqui nesse repositorio...</p>
 <h3>Status</h3>
 <h4> 
 	🚧  React 🚀 Concluido...  🚧
